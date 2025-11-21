@@ -1,8 +1,3 @@
-"""
-CSE331 Project 4 FS 24
-Circular Double-Ended Queue
-tests.py
-"""
 
 import random
 import unittest

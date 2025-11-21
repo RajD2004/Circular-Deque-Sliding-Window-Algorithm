@@ -1,8 +1,3 @@
-"""
-CSE331 Project 4 FS24
-Circular Double-Ended Queue
-solution.py
-"""
 
 from typing import TypeVar, List
 
